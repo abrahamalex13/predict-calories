@@ -1,0 +1,22 @@
+autokeras
+black
+flake8
+ipython
+isort
+jupyterlab
+loguru
+matplotlib
+mkdocs
+notebook
+numpy
+optuna
+pandas
+pip
+python-dotenv
+scikit-learn
+tensorflow
+tensorflow-metal
+xgboost
+tqdm
+typer
+-e .
